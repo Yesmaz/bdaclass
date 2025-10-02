@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Basic Flask App
+ Basic Flask App
 
 This small repo demonstrates a proper file structure for a Flask app. The folders named *static* and *templates* are required.
 
@@ -42,7 +41,3 @@ Your app only runs in the foreground, and it will stop as soon as you close your
 Here is a way to make it run in the background on EC2:
 6. nohup flask run --host=0.0.0.0 --port=5000 &
 
-
-=======
-# bdaclass
->>>>>>> c0d90b2e2a592ddd78d0206127ae6077e1531b26
